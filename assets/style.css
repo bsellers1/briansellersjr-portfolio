@@ -1,17 +1,11 @@
 .name {
-    text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
 
 .navbar {
-    text-align: left;
+    
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-}
-
-header nav {
-    text-align: center;
-    margin: 0%;
 }
