@@ -1,10 +1,7 @@
-.nav {
-    display: block;
+.navbar {
+    list-style-type: none;
+    text-align: center;
+    color: black;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    padding: 30px;
-}
-
-.nav u1 {
-    padding: 50px 50px;
+    font-size: 45px;
 }
