@@ -1,17 +1,27 @@
+/* top of page including picture, topics, and name */
+
 .header {
     display: flex;
    align-items: center; 
    flex-wrap: wrap;
    justify-content: space-between;
    min-height: 155px;
+   list-style-type: none;
 }
 
 header nav {
-    padding: 15px;
-    margin-right: 5%;
+    padding: 0;
+    margin-right: 2%;
+}
+
+.topics {
+    display: flex;
+    column-gap: 30px
 }
 
 .img {
     height: 200px;
     width: 200px;
 }
+
+/* the about section starts here */
