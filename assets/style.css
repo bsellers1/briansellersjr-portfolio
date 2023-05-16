@@ -1,67 +1,17 @@
-.name {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 300%;
-    color: black;
-    border-width: 3px;
-    border-style: solid;
-    float: left;
-    
-}
-
-.navbar {
-
+.header {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    list-style: none;
-    font-size: 200%;
-    float: right;
+   align-items: center; 
+   flex-wrap: wrap;
+   justify-content: space-between;
+   min-height: 155px;
 }
 
-.h2 {
-    float: none;
+header nav {
+    padding: 15px;
+    margin-right: 5%;
 }
 
-.about {
-    color: black;
-    font-size: 150%;
-    display: center;
-}
-
-.contacts {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    text-align: center;
-    color: black;
-}
-
-.selfpic {
-    
+.img {
     height: 200px;
-
+    width: 200px;
 }
-
-.ph1 {
-    max-width: 100%;
-    height: auto;
-    border-width: 3px;
-    border-style: solid;
-    border-color: black;
-}
-
-.container {
-    position: relative;
-  }  
-
-.text-block {
-    position: absolute;
-    top: 24%;
-    right: 64%;
-    color: black;
-    padding: 20px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: black;
-    background-color: white;
-  }
-
