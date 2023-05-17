@@ -6,6 +6,7 @@
    justify-content: space-between;
    min-height: 155px;
    list-style-type: none;
+   padding: 10%;
 }
 
 header nav {
@@ -16,6 +17,7 @@ header nav {
 .topics {
     display: flex;
     column-gap: 30px;
+    font-size: 125%;
 }
 
 .img {
@@ -70,4 +72,12 @@ header nav {
 
 .img5:hover{
     transform: scale(1.10);
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    font-size: larger;
 }
