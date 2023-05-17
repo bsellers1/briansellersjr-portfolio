@@ -42,6 +42,11 @@ header nav {
     right: -70%;
 }
 
+.img5 {
+    position: absolute;
+    right: -70%;
+}
+
 .images {
     display: flex;
     justify-content: space-between;
@@ -49,4 +54,20 @@ header nav {
     flex-direction: column;
     height: 500px;
     width: 500px;
+}
+
+.img2:hover{
+    transform: scale(1.10);
+}
+
+.img3:hover{
+    transform: scale(1.10);
+}
+
+.img4:hover{
+    transform: scale(1.10);
+}
+
+.img5:hover{
+    transform: scale(1.10);
 }
