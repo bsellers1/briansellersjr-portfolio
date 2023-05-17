@@ -23,7 +23,24 @@ header nav {
     width: 200px;
 }
 
-/* the about section starts here */
+/* the project section starts here */
+
+.img2 {
+    position: absolute;
+    top: 60%;
+    right: -250%;
+}
+
+.img3 {
+    position: absolute;
+    right: -250%;
+}
+
+.img4 {
+    position: absolute;
+    top: 60%;
+    right: -70%;
+}
 
 .images {
     display: flex;
@@ -33,4 +50,3 @@ header nav {
     height: 500px;
     width: 500px;
 }
-
