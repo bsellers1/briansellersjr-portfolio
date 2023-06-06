@@ -30,12 +30,15 @@ header nav {
 .img2 {
     position: absolute;
     top: 60%;
-    right: -250%;
+    right: -150%;
 }
 
 .img3 {
     position: absolute;
-    right: -250%;
+    right: -150%;
+    height: 250px;
+    width: 400px;
+    top: 10px;
 }
 
 .img4 {
