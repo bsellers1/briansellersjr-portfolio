@@ -43,8 +43,10 @@ header nav {
 
 .img4 {
     position: absolute;
-    top: 60%;
-    right: -70%;
+    right: -60%;
+    height: 300px;
+    width: 400px;
+    top: 300px;
 }
 
 .img5 {
